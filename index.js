@@ -1,1 +1,1 @@
-var hotel = 'hotel';
+var hotel = 'hotel, is this';

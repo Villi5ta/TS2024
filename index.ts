@@ -2,4 +2,4 @@ type testType = {
     good: string,
 }
 
-let hotel = 'hotel'
+let hotel = 'hotel, is this'
