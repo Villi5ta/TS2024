@@ -1,5 +1,5 @@
 type testType = {
-    god: string,
+    good: string,
 }
 
 let hotel = 'hotel'
